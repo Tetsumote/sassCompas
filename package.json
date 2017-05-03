@@ -5,6 +5,8 @@
     "grunt": "^1.0.1",
     "grunt-contrib-compass": "^1.1.1",
     "grunt-contrib-uglify": "^2.3.0",
-    "grunt-contrib-watch": "^1.0.0"
+    "grunt-contrib-watch": "^1.0.0",
+    "sass-loader": "^6.0.3",
+    "susy": "^2.2.12"
   }
 }
